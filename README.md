@@ -16,6 +16,20 @@
 - **Languages & Tools**: SQL, Python, DAX, Power BI, Pandas, Power Query, SQL Server
 - **Specialties**: Data Visualization, KPI Dashboards, ETL Processes, Report Automation, Performance Tuning
 - **Soft Skills**: Analytical Thinking, Problem Solving, Business Communication, Attention to Detail
+## 📂 Featured Repositories
+
+A selection of my key projects showcasing SQL, Power BI, and Python skills in real-world scenarios:
+
+### 🔹 [sql_data_warehouse_project](https://github.com/ishaanguleria/sql_data_warehouse_project)
+Designed and optimized a scalable data warehouse using SQL Server. Implemented data modeling, indexing, partitioning, and complex transformations to support business reporting needs.
+
+### 🔹 [Finance_Dashboard_Project](https://github.com/ishaanguleria/Finance_Dashboard_Project)
+Built an interactive Power BI dashboard focused on financial performance metrics such as revenue trends, cost breakdowns, and profitability KPIs. Includes advanced DAX and drill-through analysis.
+
+### 🔹 [sql-data-analytics-project](https://github.com/ishaanguleria/sql-data-analytics-project)
+Solved real-world data analytics problems using SQL, including window functions, aggregations, and performance tuning. Includes reusable queries and reporting views.
+
+> 🔗 **Explore all repositories** at: [github.com/ishaanguleria](https://github.com/ishaanguleria)
 
 
 ## 📬 Connect With Me
