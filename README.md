@@ -20,7 +20,7 @@
 
 ## 📬 Connect With Me
 
-- **LinkedIn**: [linkedin.com/in/your-link](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile)
+- **LinkedIn**:(https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile)
 - **Email**: ishaan.guleria001@email.com
 
 
