@@ -34,7 +34,8 @@ Solved real-world data analytics problems using SQL, including window functions,
 
 ## 📬 Connect With Me
 
-- **LinkedIn**:[[LinkedIn][(https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile)]
+[Connect with me on LinkedIn](https://www.linkedin.com/in/ishaan-guleria-865858200/)
+
 - **Email**: ishaan.guleria001@email.com
 
 
